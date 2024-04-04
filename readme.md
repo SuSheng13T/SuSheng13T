@@ -5,7 +5,7 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.8-FF1493.svg"></a>
     <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/SuSheng13T/SuSheng13T.svg?logo=github"></a>
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/SuSHeng13T/SuSheng13T.svg?color=blue&logo=github"></a>
-      [![访问者数量](https://visitor-badge.laobi.icu/badge?page_id=SuSheng13T.NemoCook)](https://github.com/SuSheng13T)
+      <a href="https://visitor-badge.laobi.icu/badge?page_id=SuSheng13T.NemoCook)](https://github.com/SuSheng13T)" > </a>
 
  
 </p>
