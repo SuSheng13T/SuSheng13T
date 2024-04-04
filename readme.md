@@ -58,9 +58,5 @@
 <div align="center">
 <summary>GitHub 个人资料奖杯</summary>
 </div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
-</p>
-
+![trophy](https://github-profile-trophy.vercel.app/?username=SuSheng13T)](https://github.com/SuSheng13T/github-profile-trophy)
 
