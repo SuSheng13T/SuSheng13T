@@ -64,8 +64,4 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="trophy"/>
 </a>
-Profile view
-Visitor statistics for this section begin on January 12, 2024
 
-![](https://count.getloli.com/get/@SuSheng13T.github.readme)
-</br>
