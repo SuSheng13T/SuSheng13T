@@ -7,6 +7,9 @@
      <a href="https://github.com/SuSheng13T">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SuSheng13T.NemoCook" alt="访问者数量"/>
 </a>
+<p/>
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
  
@@ -60,5 +63,8 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="trophy"/>
 </a>
+Profile view
+Visitor statistics for this section begin on January 12, 2024
 
-
+![](https://count.getloli.com/get/@BEPb.github.readme)
+</br>
